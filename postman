@@ -17,3 +17,15 @@ Create TABLE users (
   "username": "veera",
   "email": "veera@example.com"
 }
+
+
+
+
+ex: lambda event 
+
+
+{
+  "httpMethod": "POST",
+  "body": "{\"username\": \"veera\", \"email\": \"veera@example.com\"}"
+}
+
